@@ -15,3 +15,4 @@ class Alpha(ReadMe):
         self.age = 17
         self.hobbies = "Maths, Computer Science"
         self.achievements = "IMO Bronze Medalist"
+        self.languages = "English, Mandarin, SQL, JS, Rust, Python, C++, C"
